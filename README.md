@@ -41,8 +41,8 @@ Meu nome é Douglas Cunha, from Brazil.🇧🇷  Trabalho como Desenvolvedor Ful
 
 
   <div style="display: flex; justify-content: start; gap:5px; margin-top: 55px">
-    <img src="https://github-readme-stats.vercel.app/api?username=douglascunha&show_icons=true&theme=ambient_gradient" alt="Douglas Cunha"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-cunha&theme=blue-green" alt="Douglas Cunha">
+    <img src="https://github-readme-stats.vercel.app/api?username=Douglas-Cunha40&show_icons=true&theme=ambient_gradient" alt="Douglas Cunha"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Cunha40&theme=blue-green" alt="Douglas Cunha">
 </div>
 
 
