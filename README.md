@@ -40,7 +40,7 @@ Meu nome é Douglas Cunha, from Brazil.🇧🇷  Trabalho como Desenvolvedor Ful
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-cunha-11557a280)](https://www.linkedin.com/in/douglas-cunha-11557a280)
 
 
-  <div style="display: flex; justify-content: center; gap:5px">
+  <div style="display: flex; justify-content: center; gap:5">
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=douglascunha&show_icons=true&theme=ambient_gradient" alt="Douglas Cunha"/>
     <br/>
